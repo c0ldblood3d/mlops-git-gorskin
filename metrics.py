@@ -1,1 +1,1 @@
-print("Compute my metric")
+print("Compute my metric")print("Good commit_1")
