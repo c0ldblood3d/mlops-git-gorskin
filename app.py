@@ -1,2 +1,4 @@
-print('Start app')
-print('Print metric')
+print("Start app")
+print("Train my model")
+print("Some bug")
+print("Print metric")
